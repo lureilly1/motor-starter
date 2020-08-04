@@ -1,5 +1,9 @@
 # Starter Qlik Mashup dashboard using the Motor library
 
+## Homepage and Docs
+
+https://motor-js.io
+
 
 
 ## Quick Start
